@@ -1,5 +1,7 @@
 ## Olá! Meu nome é Pedro Barros. 👋
 
+🎓 Cursando Analise e Desenvolvimento de Sistemas pela UCDB e Sistema de Internet pela IFMS.
+
 <!--
 **pedrohbbarros/pedrohbbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
