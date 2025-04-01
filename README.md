@@ -1,6 +1,7 @@
 ## Olá! Meu nome é Pedro Barros. 👋
 
 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UCDB e Sistema de Internet pela IFMS.
+<hr>
 🚀 Explorando novas tecnologias e desenvolvendo projetos.
 
 <!--
