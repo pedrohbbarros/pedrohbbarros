@@ -1,4 +1,4 @@
-## Olá! Meu nome é Pedro Barros. 👋
+## <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Pedro+Barros" alt="Typing SVG" 👋> 
 
 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UCDB e Sistema de Internet pela IFMS.
 <br>
