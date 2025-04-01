@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Meu nome é Pedro Barros. 👋
 
 <!--
 **pedrohbbarros/pedrohbbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
